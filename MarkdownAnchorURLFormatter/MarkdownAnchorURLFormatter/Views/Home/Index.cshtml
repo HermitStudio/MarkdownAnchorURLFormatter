@@ -1,0 +1,37 @@
+﻿@{
+  ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+  <h1>Markdown</h1>
+  <p class="lead">"Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats... Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor." - <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank">Wikipedia</a></p>
+  <p><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <h2>About This Tool</h2>
+    <p>
+      When you want to link within a markdown article to another section within the same page, you need to use an anchor link. In markdown this is done by taking the text in a level two heading and formatting it into a URL it can understand. However, when special characters get involved, you don't always know exactly how it should be formatted, and you have to use trial and error until you can get it to work. This tool was created to generate the markdown anchor URL for you.<br/><br/><b>Just enter the heading text and press enter.</b>
+    </p>
+  </div>
+  <div class="col-md-6">
+    <h2>Markdown Anchor URL Formatting Tool</h2>
+    <form class="form-horizontal" action="Result" method="post">
+      <div class="control-group">
+        <label class="control-label">Heading Text:</label>
+        <div class="controls">
+          <input type="text" name="headingText" id="headingText"/>
+        </div>
+      </div>
+      <div class="control-group">
+        <div class="controls">
+          <br/>
+          <input type="submit" class="btn btn-primary" value="Format"/>
+        </div>
+      </div>
+    </form>
+    <br/>
+    <p>Note: Anchor links only work on heading level two. If you try to do this on another heading level (one or three-six) it won't work!</p>
+  </div>
+</div>

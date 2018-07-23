@@ -1,0 +1,44 @@
+﻿@using System.Text.RegularExpressions
+
+@{
+    
+    ViewBag.Title = "Results";
+    
+    if (IsPost) {
+        string headingText = Request.Form["headingText"];
+        <h2>Processing...</h2>
+        <p>Starting URL formatting...</p>
+        
+        String anchorUrl = headingText.ToLower();
+        <p>Converting to lower case.</p>
+              
+        // Replace spaces with dashes
+        anchorUrl = anchorUrl.Replace(" ", "-");
+        <p>Removing spaces and replacing them with dashes.</p>
+        
+        // Replace ? with dash
+        anchorUrl = anchorUrl.Replace("?", "-");
+        <p>Removing questionmarks and replacing them with dashes.</p>
+        
+        // Replace . with dash
+        anchorUrl = anchorUrl.Replace(".", "-");
+        <p>Removing periods and replacing them with dashes.</p>
+        
+        // Replace any non alpha numeric characters with nothing (except dash and underscore which are ok)
+        Regex rgx = new Regex("[^a-zA-Z0-9-_]");
+        anchorUrl = rgx.Replace(anchorUrl, "");
+        <p>Removing non-alpha-numeric characters (except dash and underscore) and replacing them with empty strings.</p>
+        
+        anchorUrl = "#" + anchorUrl;
+        <p>Adding # at start of URL.</p>
+        <p>Done!</p>
+
+        <h2>Formatted Anchor URL:</h2><b>@anchorUrl</b><br/>
+        <h2>Original Heading:</h2>@headingText <br/>
+    } else {
+        <h2>Please submit a heading first!</h2>
+    }   
+    
+    <br/>
+    <p><a href="Index" class="btn btn-primary btn-lg">&lt; Back to Tool</a></p>
+}
