@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_MarkdownAnchorURLFormatter.-1251941726.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_MarkdownAnchorURLFormatter.-1826206438.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="MarkdownAnchorURLFormatter" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="App_Start" t="Include">
           <e p="RouteConfig.cs" t="Include" />
           <e p="WebApiConfig.cs" t="Include" />

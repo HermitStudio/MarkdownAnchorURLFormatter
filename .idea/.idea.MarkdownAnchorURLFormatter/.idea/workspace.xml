@@ -1,7 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72f2f348-1efc-4879-af94-295ae259c115" name="Default" comment="" />
+    <list default="true" id="72f2f348-1efc-4879-af94-295ae259c115" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/.idea/.idea.MarkdownAnchorURLFormatter/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/.idea/.idea.MarkdownAnchorURLFormatter/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/.idea/.idea.MarkdownAnchorURLFormatter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/.idea/.idea.MarkdownAnchorURLFormatter/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/.idea/.idea.MarkdownAnchorURLFormatter/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/App_Start/RouteConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/App_Start/WebApiConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Content/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Global.asax" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Global.asax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Scripts/jquery-1.9.1-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Scripts/jquery-1.9.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Scripts/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Scripts/jquery-1.9.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Scripts/site.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Views/Home/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Views/Home/Result.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Views/Shared/Error.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Views/Shared/_Layout.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Views/Web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Views/_ViewStart.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/Web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/MarkdownAnchorURLFormatter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/MarkdownAnchorURLFormatter.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/Microsoft.Web.Infrastructure.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Net.Http.Formatting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Net.Http.Formatting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Helpers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Helpers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Http.WebHost.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Http.WebHost.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Http.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Mvc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.WebPages.Deployment.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.WebPages.Deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.WebPages.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.WebPages.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.WebPages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/bin/System.Web.WebPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/obj/Debug/MarkdownAnchorURLFormatter.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/obj/Debug/MarkdownAnchorURLFormatter.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/obj/Debug/MarkdownAnchorURLFormatter.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/obj/Debug/MarkdownAnchorURLFormatter.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/obj/Debug/MarkdownAnchorURLFormatter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/obj/Debug/MarkdownAnchorURLFormatter.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/MarkdownAnchorURLFormatter/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.Mvc.5.2.3/Microsoft.AspNet.Mvc.5.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.Razor.3.2.3/Microsoft.AspNet.Razor.3.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.5.2.3/Microsoft.AspNet.WebApi.5.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Client.5.2.3/Microsoft.AspNet.WebApi.Client.5.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/net45/System.Net.Http.Formatting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/net45/System.Net.Http.Formatting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Core.5.2.3/Content/web.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Core.5.2.3/Microsoft.AspNet.WebApi.Core.5.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Core.5.2.3/lib/net45/System.Web.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.Core.5.2.3/lib/net45/System.Web.Http.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.WebHost.5.2.3/Microsoft.AspNet.WebApi.WebHost.5.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.WebHost.5.2.3/lib/net45/System.Web.Http.WebHost.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebApi.WebHost.5.2.3/lib/net45/System.Web.Http.WebHost.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/Microsoft.AspNet.WebPages.3.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/Newtonsoft.Json.6.0.4.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/Newtonsoft.Json.6.0.4/tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/bootstrap.3.3.7.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Content/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Content/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Content/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Content/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Content/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Content/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/Scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/Content/Scripts/jquery-1.9.1-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/Content/Scripts/jquery-1.9.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/Content/Scripts/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/Content/Scripts/jquery-1.9.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/Tools/common.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/Tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/Tools/jquery-1.9.1.intellisense.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/Tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages/jQuery.1.9.1/jQuery.1.9.1.nupkg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,89 +160,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Controllers/HomeController.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-              <folding>
-                <marker date="1532353293436" expanded="true" signature="6:209" ph="..." />
-                <marker date="1532353293436" expanded="true" signature="259:571" ph="{...}" />
-                <marker date="1532353293436" expanded="true" signature="306:569" ph="{...}" />
-                <marker date="1532353293436" expanded="true" signature="348:418" ph="{...}" />
-                <marker date="1532353293436" expanded="true" signature="464:563" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Index.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-              <folding>
-                <marker date="1532353979210" expanded="true" signature="0:35" ph="@..." />
-                <marker date="1532353979210" expanded="true" signature="37:632" ph="&lt;div.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="634:1992" ph="&lt;div.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="654:1272" ph="&lt;div.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="710:1263" ph="&lt;p.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="1275:1985" ph="&lt;div.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="1351:1823" ph="&lt;form.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="1418:1630" ph="&lt;div.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="1513:1617" ph="&lt;div.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="1637:1811" ph="&lt;div.../&gt;" />
-                <marker date="1532353979210" expanded="true" signature="1673:1798" ph="&lt;div.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Shared/_Layout.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
-              <folding>
-                <marker date="1532354049708" expanded="true" signature="16:1510" ph="&lt;html.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="23:370" ph="&lt;head.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="371:1502" ph="&lt;body.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="378:1086" ph="&lt;div.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="433:1079" ph="&lt;div.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="461:904" ph="&lt;div.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="495:781" ph="&lt;button.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="909:1070" ph="&lt;!--...--&gt;" />
-                <marker date="1532354049708" expanded="true" signature="913:1067" ph="&lt;div.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="958:1056" ph="&lt;ul.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="1087:1254" ph="&lt;div.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="1151:1247" ph="&lt;footer.../&gt;" />
-                <marker date="1532354049708" expanded="true" signature="1256:1450" ph="&lt;environment.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Result.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Result.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-              <folding>
-                <marker date="1532353560651" expanded="true" signature="39:1532" ph="@..." />
-                <marker date="1532353560651" expanded="true" signature="99:1371" ph="{...}" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Result.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Web.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2722D81E-5B26-475C-B5F4-75FEA055F291/2d/b863ef66/String.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -103,6 +194,7 @@
         <option value="$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Result.cshtml" />
         <option value="$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/MarkdownAnchorURLFormatter/.gitignore" />
       </list>
     </option>
   </component>
@@ -121,11 +213,13 @@
     <option name="width" value="1400" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -142,27 +236,7 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="MarkdownAnchorURLFormatter (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="MarkdownAnchorURLFormatter" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MarkdownAnchorURLFormatter (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="MarkdownAnchorURLFormatter" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MarkdownAnchorURLFormatter (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="MarkdownAnchorURLFormatter" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MarkdownAnchorURLFormatter (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="MarkdownAnchorURLFormatter" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -170,12 +244,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -219,12 +293,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532344167532</updated>
-      <workItem from="1532344171039" duration="8362000" />
+      <workItem from="1532344171039" duration="9283000" />
+      <workItem from="1532355065739" duration="158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8362000" />
+    <option name="totallyTimeSpent" value="9441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,29 +315,29 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,21 +347,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Contact.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Contact.cshtml" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/About.cshtml" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2722D81E-5B26-475C-B5F4-75FEA055F291/2d/b863ef66/String.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55">
@@ -670,70 +738,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Controllers/HomeController.cs">
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Result.cshtml" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/packages.config" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Web.config" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Global.asax.cs" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Properties/AssemblyInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Shared/_Layout.cshtml" />
+    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <marker date="1532353293436" expanded="true" signature="6:209" ph="..." />
-            <marker date="1532353293436" expanded="true" signature="259:571" ph="{...}" />
-            <marker date="1532353293436" expanded="true" signature="306:569" ph="{...}" />
-            <marker date="1532353293436" expanded="true" signature="348:418" ph="{...}" />
-            <marker date="1532353293436" expanded="true" signature="464:563" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Result.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-          <folding>
-            <marker date="1532353560651" expanded="true" signature="39:1532" ph="@..." />
-            <marker date="1532353560651" expanded="true" signature="99:1371" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <marker date="1532353979210" expanded="true" signature="0:35" ph="@..." />
-            <marker date="1532353979210" expanded="true" signature="37:632" ph="&lt;div.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="634:1992" ph="&lt;div.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="654:1272" ph="&lt;div.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="710:1263" ph="&lt;p.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="1275:1985" ph="&lt;div.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="1351:1823" ph="&lt;form.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="1418:1630" ph="&lt;div.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="1513:1617" ph="&lt;div.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="1637:1811" ph="&lt;div.../&gt;" />
-            <marker date="1532353979210" expanded="true" signature="1673:1798" ph="&lt;div.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MarkdownAnchorURLFormatter/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
-          <folding>
-            <marker date="1532354049708" expanded="true" signature="16:1510" ph="&lt;html.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="23:370" ph="&lt;head.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="371:1502" ph="&lt;body.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="378:1086" ph="&lt;div.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="433:1079" ph="&lt;div.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="461:904" ph="&lt;div.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="495:781" ph="&lt;button.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="909:1070" ph="&lt;!--...--&gt;" />
-            <marker date="1532354049708" expanded="true" signature="913:1067" ph="&lt;div.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="958:1056" ph="&lt;ul.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="1087:1254" ph="&lt;div.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="1151:1247" ph="&lt;footer.../&gt;" />
-            <marker date="1532354049708" expanded="true" signature="1256:1450" ph="&lt;environment.../&gt;" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
